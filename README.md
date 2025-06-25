@@ -5,4 +5,4 @@
 
 2. Включить **Режим разработчика** (Developer mode).
 
-3. **Загрузить распакованное расширение** (Load unpacked), выбрав папку с расширением.
+3. **Загрузить распакованное расширение** (Load unpacked), выбрав папку с [расширением](https://github.com/Detnilius/twitchProxy/archive/refs/heads/main.zip).
